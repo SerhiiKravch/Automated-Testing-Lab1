@@ -1,0 +1,13 @@
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\bin\Debug\Data.mdf
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\bin\Debug\CalcClassBrTests.dll
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\bin\Debug\CalcClassBrTests.pdb
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\bin\Debug\CalcClassBr.dll
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\bin\Debug\CalcClassBr.pdb
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\obj\Debug\CalcClassBrTests.csproj.AssemblyReference.cache
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\obj\Debug\CalcClassBrTests.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\obj\Debug\CalcClassBrTests.csproj.CopyComplete
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\obj\Debug\CalcClassBrTests.dll
+C:\Users\Сергій\source\repos\Lab_1_A_T\CalcClassBrTests\obj\Debug\CalcClassBrTests.pdb
